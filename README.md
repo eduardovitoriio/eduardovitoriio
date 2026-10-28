@@ -43,16 +43,19 @@ const eduardo = {
 
 </div>
 
-## Estatísticas do GitHub
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
-
 ## Sequência de contribuições
 
 <div align="center">
