@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou Eduardo Sodré 👋
+# Olá, eu sou Eduardo Vitorio!👋
 
 ### Desenvolvedor • Empreendedor • Fundador da Codemy
 
@@ -47,6 +47,6 @@ e transformando ideias em soluções.
 
 ### "Grandes ideias se tornam realidade quando começam a ser construídas."
 
-**Desenvolvido com dedicação por Eduardo Sodré**
+**Desenvolvido com dedicação por Eduardo Vitorio**
 
 </div>
