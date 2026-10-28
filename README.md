@@ -1,90 +1,104 @@
+
 <div align="center">
 
-# Eduardo | Developer
+# Olá, eu sou Eduardo Sodré 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=CEO+da+Codemy;Desenvolvedor+de+Software;Construindo+o+futuro+com+IA;Transformando+ideias+em+c%C3%B3digo" alt="Animação de texto" />
+### Desenvolvedor • Empreendedor • Fundador da Codemy
 
-<br>
+Construindo produtos digitais, explorando novas tecnologias
+e transformando ideias em soluções.
 
-**CEO da Codemy · Software Developer · AI Enthusiast**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Codemy](https://img.shields.io/badge/Codemy-8B5CF6?style=for-the-badge&logo=code&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-PERFIL)
 
 </div>
 
-## Tecnologias e ferramentas
+---
+
+## Sobre mim
+
+- 🚀 Fundador da **Codemy**
+- 💻 Interessado em desenvolvimento de software e produtos digitais
+- 🧠 Sempre aprendendo e explorando novas tecnologias
+- 🛠️ Desenvolvendo projetos com foco em inovação e experiência do usuário
+- 🎯 Transformando ideias em produtos reais
+
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,kotlin,php,mysql,git,github,vscode&perline=7" alt="Tecnologias de desenvolvimento" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Projetos em destaque
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:6D28D9,100:8B5CF6&height=200&section=header&text=EDUARDO&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=CEO%20at%20Codemy%20%7C%20Software%20Developer&descAlignY=58&descSize=17" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+digital+products;Exploring+Artificial+Intelligence;Turning+ideas+into+technology;Creating+the+future+with+code" alt="Typing animation" />
-
-<br>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<a href="https://github.com/SEU-USUARIO/SEU-PROJETO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=SEU-PROJETO&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github" alt="Projects"/>
+
+<a href="https://github.com/SEU-USUARIO/OUTRO-PROJETO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=OUTRO-PROJETO&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
-## `whoami`
-
-I'm Eduardo, CEO of **Codemy** and a software developer passionate about building digital products, exploring emerging technologies, and turning ideas into practical solutions.
-
-My interests include software engineering, artificial intelligence, web development, and product innovation.
-
-```javascript
-const developer = {
-  name: "Eduardo",
-  role: "CEO & Software Developer",
-  company: "Codemy",
-  interests: [
-    "Artificial Intelligence",
-    "Software Engineering",
-    "Web Development",
-    "Digital Products"
-  ],
-  mindset: "Learn. Build. Improve. Repeat."
-};
-```
-
-## Tech Stack
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,php,mysql,git,github,vscode&perline=7" alt="Development technologies"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-## Featured Projects
+---
+
+## 📈 Minha atividade
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge&logo=github" alt="Explore repositories"/>
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-compact&hide_border=true)](https://github.com/SEU-USUARIO)
 
 </div>
 
-Explore my repositories to discover my projects, experiments, and ongoing work.
+---
 
-## GitHub Statistics
+## 🌐 Onde me encontrar
 
 <div align="center">
 
-<img width="49%" src="https://github-st
+[![GitHub](https://img.shields.io/badge/GitHub-Visite_meu_perfil-181717?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-Siga_me-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/SEU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte_se-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU-PERFIL)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Grandes ideias se tornam realidade quando começam a ser construídas."
+
+**Desenvolvido com dedicação por Eduardo Sodré**
+
+</div>
