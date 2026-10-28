@@ -43,58 +43,6 @@ e transformando ideias em soluções.
 
 ---
 
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO/SEU-PROJETO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=SEU-PROJETO&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/SEU-USUARIO/OUTRO-PROJETO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=OUTRO-PROJETO&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Minha atividade
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-compact&hide_border=true)](https://github.com/SEU-USUARIO)
-
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visite_meu_perfil-181717?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-Siga_me-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/SEU-PERFIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte_se-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU-PERFIL)
-
-</div>
-
----
-
 <div align="center">
 
 ### "Grandes ideias se tornam realidade quando começam a ser construídas."
