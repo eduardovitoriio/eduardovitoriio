@@ -18,11 +18,8 @@ e transformando ideias em soluções.
 
 ## Sobre mim
 
-- 🚀 Fundador da **Codemy**
-- 💻 Interessado em desenvolvimento de software e produtos digitais
-- 🧠 Sempre aprendendo e explorando novas tecnologias
-- 🛠️ Desenvolvendo projetos com foco em inovação e experiência do usuário
-- 🎯 Transformando ideias em produtos reais
+Eduardo Vitório é um entusiasta da tecnologia e da inovação, dedicado ao desenvolvimento de soluções digitais e à criação de projetos que promovam conhecimento, praticidade e evolução tecnológica.
+Por meio de iniciativas como a Codemy, busca contribuir para a democratização do ensino de programação, tornando o aprendizado mais acessível e incentivando o desenvolvimento de novas habilidades no universo da tecnologia.
 
 ---
 
